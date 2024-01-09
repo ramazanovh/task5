@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "53qHFNOmbYH28ZU2xpkzE6v9jPkIoDZ48NxkMlMZvnI711eLyC7n5jY6x/+zCHmVq5iaZZoYSSQqd7SZGAHrXw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\MAQA\\Source\\Repos\\ProductTask1\\Product\\Product.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\MAQA\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\MAQA\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\MAQA\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512"
+  ],
+  "logs": []
+}
